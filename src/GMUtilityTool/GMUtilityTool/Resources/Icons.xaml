@@ -17,17 +17,9 @@ Project: GMUtilityTool
 Created: 2017-10-29
 Author: Grega Mohorko
 -->
-<Application x:Class="GMUtilityTool.App"
-		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-		xmlns:local="clr-namespace:GMUtilityTool"
-		Startup="Application_Startup"
+		xmlns:local="clr-namespace:GMUtilityTool.Resources"
 		>
-	<Application.Resources>
-		<ResourceDictionary>
-			<ResourceDictionary.MergedDictionaries>
-				
-			</ResourceDictionary.MergedDictionaries>
-		</ResourceDictionary>
-	</Application.Resources>
-</Application>
+	
+</ResourceDictionary>
